@@ -1,3 +1,3 @@
 # ネクストワーク公式ホームページ
 
-Version 5.1 ロゴ表示修正版
+Phase 2 Version
